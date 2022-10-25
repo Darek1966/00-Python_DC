@@ -1,0 +1,12 @@
+--------------------
+Funkcja "ChangeSalary" start 2022-07-03T11:16:00.939950
+Parametry zmiany placy:
+Darek 20000 True
+
+Funkcja zwrot 20000
+--------------------
+Funkcja "ChangeSalary" start 2022-07-03T11:16:00.941950
+Parametry zmiany placy:
+Jan 4000
+is_bonus = True
+Funkcja zwrot 4000

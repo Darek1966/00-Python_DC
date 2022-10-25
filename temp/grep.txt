@@ -1,0 +1,6 @@
+grep
+
+grep prints lines that contain a match for one or more patterns
+This manual is for version 3.3 of GNU Grep.
+This manual is for grep, a pattern matching engine.
+Copyring @ 1999-2002, 2005, 2008-2018 Free Software Foundation, Inc.

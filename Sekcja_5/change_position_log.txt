@@ -1,0 +1,12 @@
+--------------------
+Funkcja "ChangePosition" start 2022-07-03T11:16:00.942950
+Parametry zmiany placy:
+Mariam Kelner
+
+Funkcja zwrot Kelner
+--------------------
+Funkcja "ChangePosition" start 2022-07-03T11:16:00.943947
+Parametry zmiany placy:
+Darek Manager
+
+Funkcja zwrot Manager

@@ -1,0 +1,36 @@
+--------------------
+Funkcja "ChangeSalary" start 2022-07-03T10:51:11.528082
+Parametry zmiany placy:
+Darek 20000 True
+
+Funkcja zwrot 20000
+--------------------
+Funkcja "ChangeSalary" start 2022-07-03T10:51:11.530082
+Parametry zmiany placy:
+Darek 20000
+is_bonus = True
+Funkcja zwrot 20000
+--------------------
+Funkcja "ChangeSalary" start 2022-07-03T10:51:55.373234
+Parametry zmiany placy:
+Darek 20000 True
+
+Funkcja zwrot 20000
+--------------------
+Funkcja "ChangeSalary" start 2022-07-03T10:51:55.375236
+Parametry zmiany placy:
+Darek 20000
+is_bonus = True
+Funkcja zwrot 20000
+--------------------
+Funkcja "ChangeSalary" start 2022-07-03T11:01:43.295114
+Parametry zmiany placy:
+Darek 20000 True
+
+Funkcja zwrot 20000
+--------------------
+Funkcja "ChangeSalary" start 2022-07-03T11:01:43.297114
+Parametry zmiany placy:
+Darek 20000
+is_bonus = True
+Funkcja zwrot 20000

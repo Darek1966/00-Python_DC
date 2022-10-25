@@ -1,0 +1,2 @@
+Action FILE_DELETE executed on E:\Python\00 Python_DC\Sekcja_5\dummy_file.txt on 2022-07-03 11:46:29
+Action FILE_DELETE executed on E:\Python\00 Python_DC\Sekcja_5\dummy_file.txt on 2022-07-03 11:46:29
